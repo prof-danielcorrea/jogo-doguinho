@@ -1,0 +1,48 @@
+/* body {
+    background-image:url(./images/casa.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+.texto {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.animais {
+    display: flex;
+    justify-content: center;
+}
+
+.animais img {
+    max-width: 400px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+}
+#botoes {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.marrom {
+    background-color: goldenrod;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.violeta {
+    background-color: blueviolet;
+}
+
+.verde {
+    background-color: yellowgreen; 
+}
+
+.branco {
+    background-color: white;
+}
