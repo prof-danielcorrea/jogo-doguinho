@@ -21,6 +21,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .botoes {
     display: flex;
     justify-content: center;
+    
 }
 #botoes {
     width: 50px;
@@ -35,8 +36,8 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: yellow;
 }
 
-.violeta {
-    background-color: blueviolet;
+.azul {
+    background-color: blue;
 }
 
 .verde {
@@ -45,4 +46,12 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 .branco {
     background-color: white;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.preto {
+    background-color: rgb(66, 64, 64);
 }
