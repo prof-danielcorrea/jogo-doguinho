@@ -44,14 +44,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: yellowgreen; 
 }
 
-.branco {
-    background-color: white;
-}
-
 .vermelho {
     background-color: red;
 }
 
 .preto {
     background-color: rgb(66, 64, 64);
+}
+.branco {
+    background-color: white;
 }
